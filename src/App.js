@@ -109,10 +109,10 @@ function App() {
                   </div>
                   <div className="row g-2">
                     <div className="col mb-2">
-                      <img src="./assets/images/IMG_4183.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="./" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                     <div className="col mb-2">
-                      <img src="./assets/images/IMG_4466.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="futzn/Bootcamp/classwork/homework/react-portfolio/src/IMG_4183.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                   </div>
                   <div className="row g-2">
