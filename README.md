@@ -42,5 +42,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More
 
 My Github Repo: https://github.com/Trouterwen
-Netlify Link:
+Netlify Link: https://64f989014c08b75107f735f2--elaborate-paprenjak-217fd4.netlify.app/
 ReadMe Link: https://github.com/Trouterwen/react-portfolio#readme
