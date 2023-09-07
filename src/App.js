@@ -46,7 +46,7 @@ function App() {
             <div className="card">
               <div className="rounded-top text-black d-flex flex-row" style={{ backgroundColor: '#04fdbf', height: '200px' }}>
                 <div className="ms-4 mt-5 d-flex flex-column" style={{ width: '150px' }}>
-                  <img src="C:\Users\futzn\Bootcamp\classwork\homework\my-react-portfolio\react-portfolio\assets\IMG_3803.JPG" alt="Generic placeholder image" className="img-fluid img-thumbnail mt-4 mb-2" style={{ width: '150px', zIndex: '1' }} />
+                  <img src="/IMG_3803.JPG" alt="Generic placeholder image" className="img-fluid img-thumbnail mt-4 mb-2" style={{ width: '150px', zIndex: '1' }} />
                 </div>
                 <div className="ms-3" style={{ marginTop: '130px' }}>
                   <h3>Lance Nguyen</h3>
@@ -109,18 +109,18 @@ function App() {
                   </div>
                   <div className="row g-2">
                     <div className="col mb-2">
-                      <img src="./" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="/IMG_4466.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                     <div className="col mb-2">
-                      <img src="futzn/Bootcamp/classwork/homework/react-portfolio/src/IMG_4183.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="/IMG_4183.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                   </div>
                   <div className="row g-2">
                     <div className="col">
-                      <img src="./assets/images/IMG_1699.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="/IMG_1699.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                     <div className="col">
-                      <img src="./assets/images/IMG_5827.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
+                      <img src="/IMG_5827.JPG" alt="image 1" className="w-100 rounded-3" style={{ maxHeight: '300px' }} />
                     </div>
                   </div>
                 </div>
