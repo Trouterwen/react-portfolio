@@ -1,0 +1,122 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body.bg {
+  font-family: Arial, sans-serif;
+  background-color: #384ef1;
+  
+  margin: 0;
+  padding: 0;
+}
+
+ 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-height: 300px;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.header {
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #bb0000;
+  color: #e90202;
+}
+
+
+a {
+  color:blue;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 16px;
+}
+
+ul { list-style: none; }
+
+
+
+
+.mb-5 {
+  align-items: center;
+  justify-content: center;
+}
+
+nav {
+text-align: left;
+background-color: #222;
+}
+
+.bgimage {
+  height:100vh;
+  background: url('./IMG_4597-2.JPG');
+  background-size:cover;
+  position: relative;
+  margin-bottom: -100px;
+  overflow: auto;
+}
+/* text css above hero image*/
+.hero_title {
+  font-size: 4.5rem;
+}
+.hero_desc {
+  font-size: 2rem;
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(0, 4, 9);
+  background-color:  #0197B1;
+}
+
+.button {
+max-width: 120px;
+background-color: rgba(134, 240, 248, 0.686);
+}
+
+
